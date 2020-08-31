@@ -33,6 +33,9 @@ release = '0.1.0'
 extensions = [
 ]
 
+# Define the master documentation location (i.e. home page document)
+master_doc = 'index'
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
